@@ -20,7 +20,7 @@ Predict the variety of a dry bean (7 classes) from 16 numeric size and shape mea
 ## c. GitHub repository link
 https://github.com/RajshreeKhoche/classify-compare-deploy
 
-**Live Streamlit app:** [PASTE THE STREAMLIT LINK AFTER DEPLOYMENT]
+**Live Streamlit app:** https://bean-model-comparison-app.streamlit.app/
 
 Repository contents: `app.py` (Streamlit app), `bean_model_training.ipynb` (preprocessing, training and evaluation), `requirements.txt`, `test_data.csv` (test split used in the experiments), `data/Dry_Bean_Dataset.csv` (original data) and `model/` (five saved model pipelines and the label encoder, as `.joblib` files).
 
